@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anna - @an-gold
+- 👋 Hi, I’m Anna 
 - 👀 I’m interested in design and code
 - 🌱 I’m currently learning webdevelopment and graphic design
 - 💞️ I’m looking to collaborate on different kinds of projects
